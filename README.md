@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#">
-        <img width="150" src="/vercel.svg" alt="Logo Loc" title="Logo Loc" />
+        <img width="150" src="/logo.png" alt="Logo Loc" title="Logo Loc" />
 	</a>
 </p>
 
@@ -15,7 +15,7 @@
 ##
 
 <p align="center">
-    <a href="#Libs">Libs</a> 
+    <a href="#Libs">Libs</a> • 
     <a href="#Starting">Starting</a>
 </p>
 
