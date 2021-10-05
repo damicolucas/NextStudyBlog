@@ -14,9 +14,7 @@
 
 ##
 
-<p> Preview of the project <a href="https://next-study-blog.vercel.app">here</a> </p>
-
-##
+<p align="center"> Preview of the project <a href="https://next-study-blog.vercel.app" target="_blank" >here</a> </p>
 
 ##
 
