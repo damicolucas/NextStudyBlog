@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#">
-        <img width="150" src="/logo.png" alt="Logo Loc" title="Logo Loc" />
+        <img width="150" src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" alt="Logo Loc" title="Logo Loc" />
 	</a>
 </p>
 
