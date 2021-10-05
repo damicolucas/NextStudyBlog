@@ -14,10 +14,18 @@
 
 ##
 
+<p> Preview of the project <a href="https://next-study-blog.vercel.app">here</a> </p>
+
+##
+
+##
+
 <p align="center">
     <a href="#Libs">Libs</a> • 
     <a href="#Starting">Starting</a>
 </p>
+
+##
 
 ## Libs
 
